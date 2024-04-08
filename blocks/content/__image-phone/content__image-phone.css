@@ -1,0 +1,50 @@
+.content__image-phone {
+    background-image: url(/images/phone.png);
+    position: absolute;
+    width: 154px;
+    height: 153px;
+    background-repeat: no-repeat;
+    top: 97px;
+    left: 270px;
+}
+
+@media screen and (max-width: 1473px)  {
+    .content__image-phone {
+        background-image: url(/images/phone-small.png);
+        top: auto;
+        left: auto;
+        right: 6px;
+        bottom: 0;
+        width: 217px;
+        height: 93px;
+    }
+}
+
+@media screen and (max-width: 920px)  {
+    .content__image-phone {
+        background-image: url(/images/phoneSmall.png);
+        top: auto;
+        left: auto;
+        right: 20px;
+        width: 287px;
+        height: 123px;
+    }
+}
+
+@media screen and (max-width: 574px)  {
+    .content__image-phone {
+        opacity: .3;
+    }
+}
+
+@media screen and (max-width: 450px)  {
+    .content__image-phone {
+        background-image: url(/images/phoneES.png);
+        top: auto;
+        left: auto;
+        right: 8px;
+        width: 149px;
+        height: 68px;
+        opacity: 1;
+    }
+}

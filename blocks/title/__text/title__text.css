@@ -1,0 +1,21 @@
+.title__text {
+    font-size: 24px;
+    font-weight: 500;
+    color: #3E3E3E;
+    margin: 0;
+    letter-spacing: 0.1px;
+    line-height: 29px;
+}
+
+
+@media screen and (max-width: 750px)  {
+    .title__text {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 450px)  {
+    .title__text {
+        line-height: normal;
+    }
+}

@@ -1,0 +1,10 @@
+.header__menu-small {
+    display: block;
+    background-image: url(/images/menu-button.svg);
+    border: none;
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    transition-duration: .5s;
+}

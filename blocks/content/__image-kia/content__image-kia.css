@@ -1,0 +1,51 @@
+.content__image-kia {
+    background-image: url(/images/kia.png);
+    position: absolute;
+    top: 132px;
+    left: 245px;
+    width: 231px;
+    height: 130px;
+    background-repeat: no-repeat;
+}
+
+
+@media screen and (max-width: 1473px)  {
+    .content__image-kia {
+        background-image: url(/images/kia-small.png);
+        top: auto;
+        left: auto;
+        right: 6px;
+        bottom: 0;
+        width: 217px;
+        height: 93px;
+    }
+}
+
+@media screen and (max-width: 920px)  {
+    .content__image-kia {
+        background-image: url(/images/kiaSmall.png);
+        top: auto;
+        left: auto;
+        right: 20px;
+        width: 287px;
+        height: 123px;
+    }
+}
+
+@media screen and (max-width: 574px)  {
+    .content__image-kia {
+        opacity: .3;
+    }
+}
+
+@media screen and (max-width: 450px)  {
+    .content__image-kia {
+        background-image: url(/images/kiaES.png);
+        top: auto;
+        left: auto;
+        right: 8px;
+        width: 149px;
+        height: 68px;
+        opacity: 1;
+    }
+}

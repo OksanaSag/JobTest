@@ -1,0 +1,15 @@
+.header__list {
+    font-size: 13px;
+    line-height: 1.5;
+    margin: auto 56px auto 18.462%;
+    display: flex;
+    gap: 32px;
+    padding: 0;
+    max-width: 759px;
+}
+
+@media screen and (max-width: 1473px)  {
+    .header__list {
+        display: none;
+    }
+}

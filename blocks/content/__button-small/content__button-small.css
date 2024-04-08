@@ -1,0 +1,16 @@
+.content__button-small {
+    width: 119px;
+}
+
+@media screen and (max-width: 1473px)  {
+    .content__button-small {
+        width: 148px;
+        height: 45px;
+    }
+}
+
+@media screen and (max-width: 375px)  {
+    .content__button-small {
+        height: 41px;
+    }
+}

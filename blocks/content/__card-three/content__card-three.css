@@ -1,0 +1,13 @@
+.content__card-three {
+    grid-area: card-2;
+    width: 424px;
+    height: 250px;
+    background: url(/images/image.png), linear-gradient(89.88deg, rgba(18, 18, 18, 0.6) 0.09%, rgba(0, 0, 0, 0) 99.89%), #D9D9D9;
+}
+
+@media screen and (max-width: 1473px)  {
+    .content__card-three {
+        width: 100%;
+        max-height: 233px;
+    }
+}

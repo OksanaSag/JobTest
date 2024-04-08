@@ -1,0 +1,7 @@
+.header__container {
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 14.5px;
+}

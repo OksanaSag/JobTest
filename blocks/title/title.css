@@ -1,0 +1,29 @@
+.title {
+    margin: 0 auto;
+    max-width: 1300px;
+    padding-top: 56px;
+    padding-bottom: 32px;
+}
+
+@media screen and (max-width: 1473px)  {
+    .title {
+        margin: auto 86px;
+        width: 603px;
+    }
+}
+
+@media screen and (max-width: 1016px)  {
+    .title {
+        margin: auto 44px;
+        /* width: 375px; */
+    }
+}
+
+@media screen and (max-width: 650px)  {
+    .title {
+        margin: auto 20px;
+        width: 335px;
+        padding-top: 36px;
+        padding-bottom: 24px;
+    }
+}

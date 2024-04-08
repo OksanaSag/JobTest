@@ -1,0 +1,16 @@
+.content__button-big {
+   width: 180px;
+}
+
+@media screen and (max-width: 1473px)  {
+   .content__button-big {
+       width: 148px;
+       height: 45px;
+   }
+}
+
+@media screen and (max-width: 375px)  {
+   .content__button-big {
+       height: 41px;
+   }
+}

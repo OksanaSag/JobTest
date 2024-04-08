@@ -1,0 +1,29 @@
+.content__button {
+    display: inline-block;
+    height: 45px;
+    box-sizing: border-box;
+    background-color: transparent;
+    letter-spacing: 0.46px;
+    color: #ffffff;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 600;
+    border: 1px solid white;
+    cursor: pointer;
+    border-radius: 8px;
+    transition-duration: .5s;
+}
+
+.content__button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.content__button:active {
+    background-color: #006CD8;
+}
+
+@media screen and (max-width: 375px)  {
+    .content__button {
+        height: 41px;
+    }
+}

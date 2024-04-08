@@ -1,0 +1,17 @@
+.content__card-small {
+    max-width: 295px;
+}
+
+.content__card-small :last-child { 
+    width: 323px;
+}
+
+@media screen and (max-width: 450px)  {
+    .content__card-small {
+        max-height: 194px;
+        width: 283px;
+    }
+    .content__card-small :last-child { 
+        width: auto;
+    }
+}
