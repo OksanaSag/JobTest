@@ -1,6 +1,6 @@
 .header__menu-small {
     display: block;
-    background-image: url(/images/menu-button.svg);
+    background-image: url(../../../images/menu-button.svg);
     border: none;
     background-color: transparent;
     width: 100%;
