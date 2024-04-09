@@ -1,5 +1,5 @@
 .content__image-mercedes {
-    background-image: url(/images/mercedes.png);
+    background-image: url(../../../images/mercedes.png);
     position: absolute;
     right: 11px;
     bottom: 13px;
@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 1473px)  {
     .content__image-mercedes {
-        background-image: url(/images/mercedes-small.png);
+        background-image: url(../../../images/mercedes-small.png);
         top: auto;
         left: auto;
         right: 6px;
@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 920px)  {
     .content__image-mercedes {
-        background-image: url(/images/mercSmall.png);
+        background-image: url(../../../images/mercSmall.png);
         top: auto;
         left: auto;
         right: 20px;
@@ -40,7 +40,7 @@
 
 @media screen and (max-width: 450px)  {
     .content__image-mercedes {
-        background-image: url(/images/mercES.png);
+        background-image: url(../../../images/mercES.png);
         top: auto;
         left: auto;
         right: 8px;

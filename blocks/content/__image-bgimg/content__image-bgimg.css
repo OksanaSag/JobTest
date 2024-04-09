@@ -1,5 +1,5 @@
 .content__image-bgimg {
-    background-image: url(/images/Bgimg.png);
+    background-image: url(../../../images/Bgimg.png);
     position: absolute;
     left: 12px;
     bottom: 13px;
@@ -11,7 +11,7 @@
 
 @media screen and (max-width: 1473px)  {
     .content__image-bgimg {
-        background-image: url(/images/bg-small.png);
+        background-image: url(../../../images/bg-small.png);
         top: auto;
         left: auto;
         right: 6px;
@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 920px)  {
     .content__image-bgimg {
-        background-image: url(/images/bgimgSmall.png);
+        background-image: url(../../../images/bgimgSmall.png);
         top: auto;
         left: auto;
         right: 20px;
@@ -40,7 +40,7 @@
 
 @media screen and (max-width: 450px)  {
     .content__image-bgimg {
-        background-image: url(/images/bgES.png);
+        background-image: url(../../../images/bgES.png);
         top: auto;
         left: auto;
         right: 8px;

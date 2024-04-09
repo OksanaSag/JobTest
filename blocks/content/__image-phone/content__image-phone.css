@@ -1,5 +1,5 @@
 .content__image-phone {
-    background-image: url(/images/phone.png);
+    background-image: url(../../../images/phone.png);
     position: absolute;
     width: 154px;
     height: 153px;
@@ -10,7 +10,7 @@
 
 @media screen and (max-width: 1473px)  {
     .content__image-phone {
-        background-image: url(/images/phone-small.png);
+        background-image: url(../../../images/phone-small.png);
         top: auto;
         left: auto;
         right: 6px;
@@ -22,7 +22,7 @@
 
 @media screen and (max-width: 920px)  {
     .content__image-phone {
-        background-image: url(/images/phoneSmall.png);
+        background-image: url(../../../images/phoneSmall.png);
         top: auto;
         left: auto;
         right: 20px;
@@ -39,7 +39,7 @@
 
 @media screen and (max-width: 450px)  {
     .content__image-phone {
-        background-image: url(/images/phoneES.png);
+        background-image: url(../../../images/phoneES.png);
         top: auto;
         left: auto;
         right: 8px;
