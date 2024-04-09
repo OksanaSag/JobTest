@@ -2,7 +2,6 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__menu-button/header__menu-button.css);
 @import url(../blocks/header/__button/header__button.css);
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__list/header__list.css);
@@ -40,5 +39,4 @@
 @import url(../blocks/header/__menu-small/header__menu-small.css);
 @import url(../blocks/header/__menu-button/header__menu-button.css);
 @import url(../blocks/header/__buttons/header__buttons.css);
-/* @import url(../blocks/content/__image-kia-small/content__image-kia-small.css); */
 @import url(../blocks/content/__card-small/content__card-small.css);
